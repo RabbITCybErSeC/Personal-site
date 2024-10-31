@@ -1,9 +1,11 @@
----
-title: "Hey, I am John Doe!"
+--- 
+title: "Hey, RabbITCybErSeC"
 meta_title: "About"
-description: "this is meta description"
+description: "This is meta description"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+RabbITCybErSeC is a cybersecurity researcher focused on enhancing security in Operational Technology (OT) environments. My work involves developing advanced detection algorithms and automating security operations to strengthen national cybersecurity resilience. I have contributed to projects aimed at improving incident response through innovative tools and methods. Furthermore, more research work is also around cyber-attack detection within critical infrastructures, addressing the growing complexities of cyber threats in industrial settings.
+
+With a background in applied scientific research, my efforts aim to make cybersecurity more efficient and effective for various organizations.
